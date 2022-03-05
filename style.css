@@ -452,12 +452,12 @@ img.jspk{
 .foot .social_icon li{
 	list-style: none;
     margin-left: -45px;
-    margin-top: 5px;
+    margin-top: -24px;
     font-size: 18px;
 }
 
 .foot .social_icon li a{
- font-size: 2em;
+ font-size: 24px;
  color: white;
  margin-left: 77px;
  display: inline-block;
